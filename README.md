@@ -10,6 +10,6 @@ and hit the "Select template file *.xml" and select your file and you will find 
 
 ### TODO
 
-- [] Text to Text online converter
-- [] better documentation
-- [] vscode extension
+- [ ] Text to Text online converter
+- [ ] better documentation
+- [ ] vscode extension
